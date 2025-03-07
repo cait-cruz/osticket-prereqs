@@ -4,25 +4,31 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 <p>This tutorial guides you through installing <strong>osTicket</strong>, a popular open-source support ticket system, on an <strong>Azure Virtual Machine</strong> running <strong>Windows 10</strong>.</p>
-
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- <strong>Microsoft Azure</strong> - Cloud platform for deploying the virtual machine.
+- <strong>Windows 10</strong> – Operating system for the VM.
+- <strong>Internet Information Services (IIS)</strong> – Web server for hosting osTicket.
+- <strong>PHP 7.3.8</strong> – Required for running osTicket.
+- <strong>MySQL 5.5.62</strong> – Database management system for osTicket.
+- <strong>HeidiSQL</strong> – Database administration tool.
+<br />
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+<br />
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+<p>Before starting this tutorial, ensure you have:</p>
+
+- An <strong>Azure account</strong> to create the virtual machine.
+- <strong>Remote Desktop Protocol (RDP)</strong> client to access the VM.
+- A basic understanding of <strong>IIS, PHP, and MySQL</strong>.
+<br />
 
 <h2>Installation Steps</h2>
 
