@@ -3,12 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<p>This tutorial guides you through installing <strong>osTicket</strong>, a popular open-source support ticket system, on an <strong>Azure Virtual Machine</strong> running <strong>Windows 10</strong>.</p>
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,11 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h1>Deploying osTicket on an Azure Virtual Machine</h1>
-
-<p>This tutorial guides you through deploying <strong>osTicket</strong>, a popular open-source support ticket system, on an <strong>Azure Virtual Machine</strong> running <strong>Windows 10</strong>.</p>
-
-<h2>1. Create an Azure Virtual Machine</h2>
+<h4>1. Create an Azure Virtual Machine</h4>
 <ul>
     <li>Deploy a <strong>Windows 10 VM</strong> in <strong>Azure</strong> with <strong>4 vCPUs</strong>.</li>
     <li><strong>VM Name:</strong> <code>osticket-vm</code></li>
@@ -43,12 +35,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Connect to the VM using <strong>Remote Desktop (RDP)</strong>.</li>
 </ul>
 
-<h2>2. Prepare the VM</h2>
+<h4>2. Prepare the VM</h4>
 <ul>
     <li>Download and extract <a href="#">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
 </ul>
 
-<h2>3. Install IIS and Required Modules</h2>
+<h4>3. Install IIS and Required Modules</h4>
 <ul>
     <li>Enable <strong>IIS (Internet Information Services)</strong> with <strong>CGI</strong>:</li>
     <ul>
@@ -61,7 +53,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     </ul>
 </ul>
 
-<h2>4. Install PHP and MySQL</h2>
+<h4>4. Install PHP and MySQL</h4>
 <ul>
     <li>Create directory: <code>C:\PHP</code></li>
     <li>Extract <strong>PHP 7.3.8</strong> into <code>C:\PHP</code>.</li>
@@ -72,14 +64,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     </ul>
 </ul>
 
-<h2>5. Configure IIS</h2>
+<h4>5. Configure IIS</h4>
 <ul>
     <li>Open IIS as Administrator.</li>
     <li>Register <strong>PHP</strong> (<code>PHP Manager -> C:\PHP\php-cgi.exe</code>).</li>
     <li>Reload IIS (Stop & Start the server).</li>
 </ul>
 
-<h2>6. Install osTicket</h2>
+<h4>6. Install osTicket</h4>
 <ul>
     <li>Extract <code>osTicket-v1.15.8.zip</code> and move the <strong>upload</strong> folder to <code>C:\inetpub\wwwroot</code>.</li>
     <li>Rename <strong>upload</strong> to <strong>osTicket</strong>.</li>
@@ -87,7 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>.</li>
 </ul>
 
-<h2>7. Enable PHP Extensions</h2>
+<h4>7. Enable PHP Extensions</h4>
 <ul>
     <li>In IIS, navigate to <strong>osTicket → PHP Manager</strong> → <strong>Enable or disable an extension</strong>.</li>
     <li>Enable:</li>
@@ -99,7 +91,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <li>Refresh the osTicket site.</li>
 </ul>
 
-<h2>8. Configure osTicket</h2>
+<h4>8. Configure osTicket</h4>
 <ul>
     <li>Rename <code>C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</code> to <code>ost-config.php</code>.</li>
     <li>Adjust <strong>permissions</strong>:</li>
@@ -114,7 +106,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     </ul>
 </ul>
 
-<h2>9. Configure Database</h2>
+<h4>9. Configure Database</h4>
 <ul>
     <li>Install <a href="#">HeidiSQL</a> from the <strong>osTicket-Installation-Files</strong> folder.</li>
     <li>Open <strong>HeidiSQL</strong> → Create a new session (<code>root/root</code>).</li>
@@ -128,7 +120,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     </ul>
 </ul>
 
-<h2>10. Final Steps</h2>
+<h4>10. Final Steps</h4>
 <ul>
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
     <li>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
