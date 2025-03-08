@@ -80,6 +80,12 @@
 ![image](https://github.com/user-attachments/assets/a2275804-82aa-4a15-8f75-6bccb05c7297)
 <br />
 
+![image](https://github.com/user-attachments/assets/c8601844-cc58-4549-944f-56abc70500f0)
+<br />
+
+![image](https://github.com/user-attachments/assets/30d466b2-0849-478c-b75d-12fc0ac46909)
+<br />
+
 <h4>4. Install PHP and MySQL</h4>
 <ul>
     <li>Create directory: <code>C:\PHP</code></li>
