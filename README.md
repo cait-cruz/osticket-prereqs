@@ -93,7 +93,7 @@
     <li>From the <strong>osTicket-Installation-Files</strong> folder, install:</li>
     <ul>
         <li><strong>VC Redist</strong> (<code>VC_redist.x86.exe</code>)</li>
-        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with <strong>Username:</strong> root, and <strong>Password:</strong> root.</li>
+        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with "Standard" configuration and <strong>Username:</strong> root, and <strong>Password:</strong> root.</li>
     </ul>
 </ul>
 
@@ -104,6 +104,12 @@
 <br />
 
 ![image](https://github.com/user-attachments/assets/230f5ba2-aacd-4ae5-aba9-a5aeb8284683)
+<br />
+
+![image](https://github.com/user-attachments/assets/169f2415-8e7b-4cb2-9691-25497529af7e)
+<br />
+
+![image](https://github.com/user-attachments/assets/9878ab68-7814-419b-9e32-22fa04e722a7)
 <br />
 
 <h4>5. Configure IIS</h4>
