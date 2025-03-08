@@ -119,6 +119,18 @@
     <li>Reload IIS (Stop & Start the server).</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/e59d2e11-e30c-440f-a600-ffce3539dd5a)
+<br />
+
+![image](https://github.com/user-attachments/assets/07d8e02f-6c86-49dc-9364-43e39fc4955e)
+<br />
+
+![image](https://github.com/user-attachments/assets/d27539c6-2963-46d1-8c3e-f2e47a2c72e0)
+<br />
+
+![image](https://github.com/user-attachments/assets/41cc3874-71b4-477a-b855-bf978c676cc4)
+<br />
+
 <h4>6. Install osTicket</h4>
 <ul>
     <li>Extract <code>osTicket-v1.15.8.zip</code> and move the <strong>upload</strong> folder to <code>C:\inetpub\wwwroot</code>.</li>
