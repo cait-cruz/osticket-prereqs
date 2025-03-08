@@ -43,7 +43,7 @@
 
 <h4>2. Prepare the VM</h4>
 <ul>
-    <li>Download and extract <a href="#">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
+    <li>Download and extract <a href="https://osticket.com/" target="_blank">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
 </ul>
 
 <h4>3. Install IIS and Required Modules</h4>
