@@ -172,6 +172,12 @@
     <li>Refresh the osTicket site.</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/fa9ff071-a704-4ea7-8fbe-acaf834b4b4c)
+<br />
+
+![image](https://github.com/user-attachments/assets/8a15d889-c2d9-471e-9765-99dcf00a651e)
+<br />
+
 <h4>8. Configure osTicket</h4>
 <ul>
     <li>Rename <code>C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</code> to <code>ost-config.php</code>.</li>
