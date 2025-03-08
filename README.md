@@ -175,7 +175,10 @@
 ![image](https://github.com/user-attachments/assets/fa9ff071-a704-4ea7-8fbe-acaf834b4b4c)
 <br />
 
-![image](https://github.com/user-attachments/assets/8a15d889-c2d9-471e-9765-99dcf00a651e)
+![image](https://github.com/user-attachments/assets/3d651d26-58ae-46ea-a357-5e8b613dee70)
+<br />
+
+![image](https://github.com/user-attachments/assets/bb60423d-29a3-4d56-a9fc-449be127c67a)
 <br />
 
 <h4>8. Configure osTicket</h4>
