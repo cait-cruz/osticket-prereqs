@@ -41,10 +41,25 @@
     <li>Connect to the VM using <strong>Remote Desktop (RDP)</strong>.</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/72eaf117-9712-4071-86da-f21f50667b07)
+<br />
+
+![image](https://github.com/user-attachments/assets/8cd57077-e6c9-41a2-9dc1-30a9a08c0a25)
+<br/>
+
+![image](https://github.com/user-attachments/assets/5783ec64-9fcc-4748-b136-5669d7dbaca6)
+<br />
+
 <h4>2. Prepare the VM</h4>
 <ul>
     <li>Download and extract <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/eb484fdf-b680-401b-a4ad-ce1eb6a31217)
+<br />
+
+![image](https://github.com/user-attachments/assets/9f5c39c2-4edf-4871-a5c6-773c75fc80f2)
+<br />
 
 <h4>3. Install IIS and Required Modules</h4>
 <ul>
