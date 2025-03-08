@@ -62,11 +62,11 @@
 <h4>4. Install PHP and MySQL</h4>
 <ul>
     <li>Create directory: <code>C:\PHP</code></li>
-    <li>Extract <strong>PHP 7.3.8</strong> into <code>C:\PHP</code>.</li>
-    <li>Install:</li>
+    <li>From the <strong>osTicket-Installation-Files</strong> folder, extract <strong>PHP 7.3.8</strong> into <code>C:\PHP</code>.</li>
+    <li>From the <strong>osTicket-Installation-Files</strong> folder, install:</li>
     <ul>
         <li><strong>VC Redist</strong> (<code>VC_redist.x86.exe</code>)</li>
-        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with <strong>root/root</strong> credentials.</li>
+        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with <strong>Username:</strong>root, and <strong>Password:</strong>root credentials.</li>
     </ul>
 </ul>
 
