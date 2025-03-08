@@ -194,6 +194,7 @@
     <ul>
         <li><strong>Helpdesk Name</strong></li>
         <li><strong>Default email</strong></li>
+        <li><strong>Admin User</strong></li>
     </ul>
 </ul>
 
