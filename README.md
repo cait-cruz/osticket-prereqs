@@ -54,8 +54,8 @@
     </ul>
     <li>Install required IIS modules from the <strong>osTicket-Installation-Files</strong> folder:</li>
     <ul>
-        <li><a href="#">PHP Manager for IIS</a> (<code>PHPManagerForIIS_V1.5.0.msi</code>)</li>
-        <li><a href="#">IIS Rewrite Module</a> (<code>rewrite_amd64_en-US.msi</code>)</li>
+        <li><strong>PHP Manager for IIS</strong> (<code>PHPManagerForIIS_V1.5.0.msi</code>)</li>
+        <li><strong>IIS Rewrite Module</strong> (<code>rewrite_amd64_en-US.msi</code>)</li>
     </ul>
 </ul>
 
@@ -65,8 +65,8 @@
     <li>Extract <strong>PHP 7.3.8</strong> into <code>C:\PHP</code>.</li>
     <li>Install:</li>
     <ul>
-        <li><a href="#">VC Redist</a> (<code>VC_redist.x86.exe</code>)</li>
-        <li><a href="#">MySQL 5.5.62</a> (<code>mysql-5.5.62-win32.msi</code>) with <strong>root/root</strong> credentials.</li>
+        <li><strong>VC Redist</strong> (<code>VC_redist.x86.exe</code>)</li>
+        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with <strong>root/root</strong> credentials.</li>
     </ul>
 </ul>
 
