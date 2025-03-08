@@ -236,6 +236,15 @@
 ![image](https://github.com/user-attachments/assets/b076a59c-f1aa-4ee8-b69f-8f05de145618)
 <br />
 
+![image](https://github.com/user-attachments/assets/50754952-abcd-4aed-8248-f8edad9cf6b7)
+<br />
+
+![image](https://github.com/user-attachments/assets/65705e9b-4e2d-46c8-9d77-b6099beb569a)
+<br />
+
+![image](https://github.com/user-attachments/assets/3e412a22-c66f-4767-afa7-fccfe73ab71c)
+<br />
+
 <h4>10. Final Steps</h4>
 <ul>
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
