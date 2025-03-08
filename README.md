@@ -249,11 +249,7 @@
 <ul>
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
     <li>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
-    <li><strong>Clean up:</strong></li>
-    <ul>
-        <li>Delete <code>C:\inetpub\wwwroot\osTicket\setup</code>.</li>
-        <li>Set <code>C:\inetpub\wwwroot\osTicket\include\ost-config.php</code> to <strong>Read-Only</strong>.</li>
-    </ul>
 </ul>
+<br />
 
 <p>🎉 <strong>Congratulations! osTicket is now installed and ready to use.</strong> 🎉</p>
