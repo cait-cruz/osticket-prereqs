@@ -66,13 +66,19 @@
     <li>Enable <strong>IIS (Internet Information Services)</strong> with <strong>CGI</strong>:</li>
     <ul>
         <li><strong>World Wide Web Services</strong> → <strong>Application Development Features</strong> → <strong>[X] CGI</strong></li>
-    </ul>
+    </ul> 
     <li>Install required IIS modules from the <strong>osTicket-Installation-Files</strong> folder:</li>
     <ul>
         <li><strong>PHP Manager for IIS</strong> (<code>PHPManagerForIIS_V1.5.0.msi</code>)</li>
         <li><strong>IIS Rewrite Module</strong> (<code>rewrite_amd64_en-US.msi</code>)</li>
     </ul>
 </ul>
+
+![image](https://github.com/user-attachments/assets/2fb02bee-518e-46c7-897d-3dcb03a5e88f)
+<br />
+
+![image](https://github.com/user-attachments/assets/a2275804-82aa-4a15-8f75-6bccb05c7297)
+<br />
 
 <h4>4. Install PHP and MySQL</h4>
 <ul>
