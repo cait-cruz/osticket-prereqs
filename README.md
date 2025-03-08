@@ -131,6 +131,9 @@
 ![image](https://github.com/user-attachments/assets/41cc3874-71b4-477a-b855-bf978c676cc4)
 <br />
 
+![image](https://github.com/user-attachments/assets/8dd0dcd0-adc7-4061-9ec6-b734e2c4e92a)
+<br />
+
 <h4>6. Install osTicket</h4>
 <ul>
     <li>Extract <code>osTicket-v1.15.8.zip</code> and move the <strong>upload</strong> folder to <code>C:\inetpub\wwwroot</code>.</li>
@@ -138,6 +141,15 @@
     <li>Reload IIS.</li>
     <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>.</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/6bec7392-a35b-4279-9875-be61c32eec50)
+<br />
+
+![image](https://github.com/user-attachments/assets/f1730c89-1f38-4c24-86e7-2a586f6c4475)
+<br />
+
+![image](https://github.com/user-attachments/assets/bb9cfe26-91bb-4856-8d42-8eac033e0dc9)
+<br />
 
 <h4>7. Enable PHP Extensions</h4>
 <ul>
