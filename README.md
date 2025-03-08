@@ -227,6 +227,15 @@
     </ul>
 </ul>
 
+![image](https://github.com/user-attachments/assets/b56be149-c40c-4fd2-9c04-76ffde7b9044)
+<br />
+
+![image](https://github.com/user-attachments/assets/bb30ff48-d73e-4516-a9c5-86c788e6f1f3)
+<br />
+
+![image](https://github.com/user-attachments/assets/b076a59c-f1aa-4ee8-b69f-8f05de145618)
+<br />
+
 <h4>10. Final Steps</h4>
 <ul>
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
