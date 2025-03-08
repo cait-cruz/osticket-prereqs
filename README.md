@@ -114,7 +114,7 @@
 
 <h4>9. Configure Database</h4>
 <ul>
-    <li>Install <a href="#">HeidiSQL</a> from the <strong>osTicket-Installation-Files</strong> folder.</li>
+    <li>Install <strong>HeidiSQL</strong> from the <strong>osTicket-Installation-Files</strong> folder.</li>
     <li>Open <strong>HeidiSQL</strong> → Create a new session (<code>root/root</code>).</li>
     <li>Create a database named <strong>osTicket</strong>.</li>
     <li>Finalize <strong>osTicket installation</strong> in the browser:</li>
