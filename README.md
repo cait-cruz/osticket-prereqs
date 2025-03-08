@@ -188,6 +188,7 @@
     <ul>
         <li><strong>Disable inheritance</strong> → <strong>Remove All</strong>.</li>
         <li><strong>New Permissions</strong> → <strong>Everyone → All</strong>.</li>
+        <li>Enable <strong>Full Control.</strong></li>
     </ul>
     <li>Continue <strong>osTicket setup</strong> in the browser:</li>
     <ul>
@@ -195,6 +196,21 @@
         <li><strong>Default email</strong></li>
     </ul>
 </ul>
+
+![image](https://github.com/user-attachments/assets/8e03c193-49bf-481e-9065-f116653586b0)
+<br />
+
+![image](https://github.com/user-attachments/assets/c2859560-dd9f-436e-a7d8-2eab31dfa988)
+<br />
+
+![image](https://github.com/user-attachments/assets/f488a6ef-6db8-4fd3-963d-60e75ddb5a36)
+<br />
+
+![image](https://github.com/user-attachments/assets/d626dd3e-b43b-4fdc-a070-237b32068fba)
+<br />
+
+![image](https://github.com/user-attachments/assets/0109e49e-30fd-4549-91f3-affe34653127)
+<br />
 
 <h4>9. Configure Database</h4>
 <ul>
