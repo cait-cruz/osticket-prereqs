@@ -151,6 +151,15 @@
 ![image](https://github.com/user-attachments/assets/bb9cfe26-91bb-4856-8d42-8eac033e0dc9)
 <br />
 
+![image](https://github.com/user-attachments/assets/7bc58436-77a4-42d5-8fd3-21b55b6f83eb)
+<br />
+
+![image](https://github.com/user-attachments/assets/9c2cdbee-0ad7-4b39-a46e-efc509e07d04)
+<br />
+
+![image](https://github.com/user-attachments/assets/1806edf2-bcd2-44f4-9c10-de8b1836a464)
+<br />
+
 <h4>7. Enable PHP Extensions</h4>
 <ul>
     <li>In IIS, navigate to <strong>osTicket → PHP Manager</strong> → <strong>Enable or disable an extension</strong>.</li>
