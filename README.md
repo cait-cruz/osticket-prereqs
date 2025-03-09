@@ -246,5 +246,6 @@
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
     <li>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
 </ul>
+<hr>
 
 <h3>🎉 Congratulations! osTicket is now installed and ready to use. 🎉</h3>
