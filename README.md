@@ -188,7 +188,7 @@
     </ul>
     <li>Continue <strong>osTicket setup</strong> in the browser:</li>
     <ul>
-        <li>Helpdesk Nameli>
+        <li>Helpdesk Name</li>
         <li>Default email</li>
         <li>Admin User</li>
     </ul>
