@@ -135,7 +135,7 @@
     <li>Extract <code>osTicket-v1.15.8.zip</code> and move the <strong>upload</strong> folder to <code>C:\inetpub\wwwroot</code>.</li>
     <li>Rename <strong>upload</strong> to <strong>osTicket</strong>.</li>
     <li>Reload IIS.</li>
-    <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>.</li>
+    <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>. Notice that some extensions are not enabled.</li>
 </ul>
 
 ![image](https://github.com/user-attachments/assets/6bec7392-a35b-4279-9875-be61c32eec50)
