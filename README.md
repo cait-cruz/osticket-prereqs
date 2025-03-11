@@ -195,23 +195,17 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/b56be149-c40c-4fd2-9c04-76ffde7b9044)
-<br />
+![image](https://github.com/user-attachments/assets/445dfe8b-e5eb-44fc-8087-8752386ba174)
 
-![image](https://github.com/user-attachments/assets/bb30ff48-d73e-4516-a9c5-86c788e6f1f3)
-<br />
+![image](https://github.com/user-attachments/assets/a0ba7fa2-ef13-4895-8377-8af94bc0899e)
 
-![image](https://github.com/user-attachments/assets/b076a59c-f1aa-4ee8-b69f-8f05de145618)
-<br />
+![image](https://github.com/user-attachments/assets/2c1c2b1b-0f1c-48b4-b482-717f88a2278c)
 
-![image](https://github.com/user-attachments/assets/50754952-abcd-4aed-8248-f8edad9cf6b7)
-<br />
+![image](https://github.com/user-attachments/assets/04c4ec51-3b34-4ff9-92c6-f9c3b646fddf)
 
-![image](https://github.com/user-attachments/assets/65705e9b-4e2d-46c8-9d77-b6099beb569a)
-<br />
+![image](https://github.com/user-attachments/assets/d2c8c472-87d0-47a0-abd0-515133fd7e13)
 
-![image](https://github.com/user-attachments/assets/3e412a22-c66f-4767-afa7-fccfe73ab71c)
-<br />
+![image](https://github.com/user-attachments/assets/994cc398-5df4-4edd-b09d-40f7778ce97a)
 
 <h4>10. Final Steps</h4>
 <ul>
