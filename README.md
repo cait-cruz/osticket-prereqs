@@ -148,14 +148,11 @@
     <li>Refresh the osTicket site.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/fa9ff071-a704-4ea7-8fbe-acaf834b4b4c)
-<br />
+![image](https://github.com/user-attachments/assets/76dc683b-a4f3-4550-b5c4-28ec986f1bad)
 
-![image](https://github.com/user-attachments/assets/3d651d26-58ae-46ea-a357-5e8b613dee70)
-<br />
+![image](https://github.com/user-attachments/assets/d619da65-3184-4c68-8d26-5e054e530477)
 
-![image](https://github.com/user-attachments/assets/bb60423d-29a3-4d56-a9fc-449be127c67a)
-<br />
+![image](https://github.com/user-attachments/assets/3f8b2d80-722c-4e19-92d6-e7e5e2003b19)
 
 <h4>8. Configure osTicket</h4>
 <ul>
