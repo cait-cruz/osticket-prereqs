@@ -70,17 +70,13 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/2fb02bee-518e-46c7-897d-3dcb03a5e88f)
-<br />
+![image](https://github.com/user-attachments/assets/b4be16d0-7be3-4028-bf6e-b9028985f189)
 
-![image](https://github.com/user-attachments/assets/a2275804-82aa-4a15-8f75-6bccb05c7297)
-<br />
+![image](https://github.com/user-attachments/assets/c388cf37-384a-49a2-bdce-31c47a7d21d9)
 
-![image](https://github.com/user-attachments/assets/c8601844-cc58-4549-944f-56abc70500f0)
-<br />
+![image](https://github.com/user-attachments/assets/5c1acdc3-7a35-429a-9be2-889059acd75b)
 
-![image](https://github.com/user-attachments/assets/30d466b2-0849-478c-b75d-12fc0ac46909)
-<br />
+![image](https://github.com/user-attachments/assets/88c870b7-8a47-4f34-bfeb-a7578e584f35)
 
 <h4>4. Install PHP and MySQL</h4>
 <ul>
