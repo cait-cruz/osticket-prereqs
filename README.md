@@ -89,20 +89,15 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/b0e6bdeb-5ff5-4485-bd66-5ca1bd31e547)
-<br />
+![image](https://github.com/user-attachments/assets/96a2ac09-3c26-4249-ac11-ad5f7cdd4c71)
 
-![image](https://github.com/user-attachments/assets/2a5130f2-0cad-4ec8-909a-025a407a9a53)
-<br />
+![image](https://github.com/user-attachments/assets/359d9578-fdd8-4b24-8810-b4f24d7a9d99)
 
 ![image](https://github.com/user-attachments/assets/230f5ba2-aacd-4ae5-aba9-a5aeb8284683)
-<br />
 
-![image](https://github.com/user-attachments/assets/169f2415-8e7b-4cb2-9691-25497529af7e)
-<br />
+![image](https://github.com/user-attachments/assets/8a6db7b7-d0f8-4855-b6a6-2524eb9d158f)
 
-![image](https://github.com/user-attachments/assets/9878ab68-7814-419b-9e32-22fa04e722a7)
-<br />
+![image](https://github.com/user-attachments/assets/dc0cadf5-3493-4dab-ba8e-07e7a2afa88d)
 
 <h4>5. Configure IIS</h4>
 <ul>
@@ -111,20 +106,15 @@
     <li>Reload IIS (Stop & Start the server).</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/e59d2e11-e30c-440f-a600-ffce3539dd5a)
-<br />
+![image](https://github.com/user-attachments/assets/5c0066fe-3d25-4691-a15a-7aab2103c3f8)
 
-![image](https://github.com/user-attachments/assets/07d8e02f-6c86-49dc-9364-43e39fc4955e)
-<br />
+![image](https://github.com/user-attachments/assets/6a891b04-d489-4bae-9181-187bc8eaf8c8)
 
-![image](https://github.com/user-attachments/assets/d27539c6-2963-46d1-8c3e-f2e47a2c72e0)
-<br />
+![image](https://github.com/user-attachments/assets/5f4e83ff-ab58-46b4-9c38-b09c5327c4e7)
 
 ![image](https://github.com/user-attachments/assets/41cc3874-71b4-477a-b855-bf978c676cc4)
-<br />
 
-![image](https://github.com/user-attachments/assets/8dd0dcd0-adc7-4061-9ec6-b734e2c4e92a)
-<br />
+![image](https://github.com/user-attachments/assets/cf340fcd-7bb7-4c7f-bd81-265f04c52a16)
 
 <h4>6. Install osTicket</h4>
 <ul>
