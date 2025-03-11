@@ -49,10 +49,8 @@
 </ul>
 
 ![image](https://github.com/user-attachments/assets/8439fb71-6d84-4f8b-82e4-5c371d5e6ea5)
-<br />
 
-![image](https://github.com/user-attachments/assets/9f5c39c2-4edf-4871-a5c6-773c75fc80f2)
-<br />
+![image](https://github.com/user-attachments/assets/8b04ee27-0ce6-4720-83c3-ae32b5bd5074)
 
 <h4>3. Install IIS and Required Modules</h4>
 <ul>
