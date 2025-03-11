@@ -171,20 +171,15 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/8e03c193-49bf-481e-9065-f116653586b0)
-<br />
+![image](https://github.com/user-attachments/assets/d73c753a-6816-44fa-9198-f28ce5c25c02)
 
-![image](https://github.com/user-attachments/assets/c2859560-dd9f-436e-a7d8-2eab31dfa988)
-<br />
+![image](https://github.com/user-attachments/assets/7a8bf157-c239-464b-b2ff-f726ce83c583)
 
-![image](https://github.com/user-attachments/assets/f488a6ef-6db8-4fd3-963d-60e75ddb5a36)
-<br />
+![image](https://github.com/user-attachments/assets/3369a7a5-858e-45d3-adbb-791296307900)
 
-![image](https://github.com/user-attachments/assets/d626dd3e-b43b-4fdc-a070-237b32068fba)
-<br />
+![image](https://github.com/user-attachments/assets/723f5ded-b04f-4cd0-8e7b-10c18bea1106)
 
-![image](https://github.com/user-attachments/assets/0109e49e-30fd-4549-91f3-affe34653127)
-<br />
+![image](https://github.com/user-attachments/assets/0758b945-7657-4109-983f-09e83aca8dd6)
 
 <h4>9. Configure Database</h4>
 <ul>
