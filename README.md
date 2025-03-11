@@ -37,7 +37,7 @@
     <li>Connect to the VM using <strong>Remote Desktop (RDP)</strong>.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/72eaf117-9712-4071-86da-f21f50667b07)
+![image](https://github.com/user-attachments/assets/b2cf628f-77e6-47b2-a3ac-98a99e7c13b3)
 <br />
 
 ![image](https://github.com/user-attachments/assets/8cd57077-e6c9-41a2-9dc1-30a9a08c0a25)
