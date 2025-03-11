@@ -37,14 +37,11 @@
     <li>Connect to the VM using <strong>Remote Desktop (RDP)</strong>.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/b2cf628f-77e6-47b2-a3ac-98a99e7c13b3)
-<br />
+![Screenshot 2025-03-11 161749](https://github.com/user-attachments/assets/6a7ded3f-1730-45a4-8a7e-6abd1ef38f47)
 
-![image](https://github.com/user-attachments/assets/8cd57077-e6c9-41a2-9dc1-30a9a08c0a25)
-<br/>
+![Screenshot 2025-03-11 161830](https://github.com/user-attachments/assets/8f37aad8-bc0d-44e9-a828-526188b3aa64)
 
-![image](https://github.com/user-attachments/assets/5783ec64-9fcc-4748-b136-5669d7dbaca6)
-<br />
+![Screenshot 2025-03-11 161853](https://github.com/user-attachments/assets/5b95bcb6-cd49-47c0-bb3e-a335f153d501)
 
 <h4>2. Prepare the VM</h4>
 <ul>
