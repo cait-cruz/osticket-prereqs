@@ -51,7 +51,7 @@
     <li>Download and extract <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/eb484fdf-b680-401b-a4ad-ce1eb6a31217)
+![image](https://github.com/user-attachments/assets/8439fb71-6d84-4f8b-82e4-5c371d5e6ea5)
 <br />
 
 ![image](https://github.com/user-attachments/assets/9f5c39c2-4edf-4871-a5c6-773c75fc80f2)
