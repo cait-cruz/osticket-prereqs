@@ -124,23 +124,17 @@
     <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>. Notice that some extensions are not enabled.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/6bec7392-a35b-4279-9875-be61c32eec50)
-<br />
+![image](https://github.com/user-attachments/assets/a35333e7-d456-4a04-aa2c-e98293076fbc)
 
-![image](https://github.com/user-attachments/assets/f1730c89-1f38-4c24-86e7-2a586f6c4475)
-<br />
+![image](https://github.com/user-attachments/assets/fd785f6a-456c-4b70-8dc8-691349c6b95c)
 
-![image](https://github.com/user-attachments/assets/bb9cfe26-91bb-4856-8d42-8eac033e0dc9)
-<br />
+![image](https://github.com/user-attachments/assets/e3f37272-7abb-4aec-9d26-f2013e209562)
 
-![image](https://github.com/user-attachments/assets/7bc58436-77a4-42d5-8fd3-21b55b6f83eb)
-<br />
+![image](https://github.com/user-attachments/assets/edfaa3d2-32b7-4016-876a-833f262644be)
 
-![image](https://github.com/user-attachments/assets/9c2cdbee-0ad7-4b39-a46e-efc509e07d04)
-<br />
+![image](https://github.com/user-attachments/assets/35f02e12-7446-4771-a4aa-218b3b950ddc)
 
-![image](https://github.com/user-attachments/assets/1806edf2-bcd2-44f4-9c10-de8b1836a464)
-<br />
+![image](https://github.com/user-attachments/assets/d826cfd3-4024-40fa-8cd9-01794d969fa8)
 
 <h4>7. Enable PHP Extensions</h4>
 <ul>
