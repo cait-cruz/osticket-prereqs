@@ -57,6 +57,8 @@
     <li>Enable <strong>IIS (Internet Information Services)</strong> with <strong>CGI</strong>:</li>
     <ul>
         <li><strong>World Wide Web Services</strong> → <strong>Application Development Features</strong> → <strong>[X] CGI</strong></li>
+
+![421612319-931ca6f6-27cc-4044-80d0-e839b6ac023a](https://github.com/user-attachments/assets/6550950a-491e-4618-9fe7-f099bd14b063)   
     </ul> 
     <li>Install required IIS modules from the <strong>osTicket-Installation-Files</strong> folder:</li>
     <ul>
@@ -64,10 +66,6 @@
         <li><strong>IIS Rewrite Module</strong> (<code>rewrite_amd64_en-US.msi</code>)</li>
     </ul>
 </ul>
-
-![image](https://github.com/user-attachments/assets/b4be16d0-7be3-4028-bf6e-b9028985f189)
-
-![image](https://github.com/user-attachments/assets/c388cf37-384a-49a2-bdce-31c47a7d21d9)
 
 ![image](https://github.com/user-attachments/assets/5c1acdc3-7a35-429a-9be2-889059acd75b)
 
