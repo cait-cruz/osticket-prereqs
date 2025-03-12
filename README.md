@@ -149,13 +149,6 @@
         <li><strong>New Permissions</strong> → <strong>Everyone → All</strong>.</li>
         <li>Enable <strong>Full Control.</strong></li>
     </ul>
-    <li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
-    <ul>
-        <li>Helpdesk Name</li>
-        <li>Default email</li>
-        <li>Admin User</li>
-    </ul>
-</ul>
 
 ![image](https://github.com/user-attachments/assets/f7717dc8-7f29-4aaa-b019-9885be0c5a58)
 
@@ -178,13 +171,6 @@
     <li>Install <strong>HeidiSQL</strong> from the <strong>osTicket-Installation-Files</strong> folder.</li>
     <li>Open <strong>HeidiSQL</strong> → Create a new session (<code>root/root</code>).</li>
     <li>Create a database named <strong>osTicket</strong>.</li>
-    <li>Finalize <strong>osTicket installation</strong> in the browser:</li>
-    <ul>
-        <li><strong>MySQL Database:</strong> <code>osTicket</code></li>
-        <li><strong>MySQL Username:</strong> <code>root</code></li>
-        <li><strong>MySQL Password:</strong> <code>root</code></li>
-        <li>Click <strong>Install Now!</strong></li>
-    </ul>
 </ul>
 
 ![image](https://github.com/user-attachments/assets/445dfe8b-e5eb-44fc-8087-8752386ba174)
@@ -203,6 +189,21 @@
 <ul>
     <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
     <li>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
+</ul>
+<br />
+<li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
+    <ul>
+        <li>Helpdesk Name</li>
+        <li>Default email</li>
+        <li>Admin User</li>
+    </ul>
+<li>Finalize <strong>osTicket installation</strong> in the browser:</li>
+    <ul>
+        <li><strong>MySQL Database:</strong> <code>osTicket</code></li>
+        <li><strong>MySQL Username:</strong> <code>root</code></li>
+        <li><strong>MySQL Password:</strong> <code>root</code></li>
+        <li>Click <strong>Install Now!</strong></li>
+    </ul>
 </ul>
 <hr>
 
