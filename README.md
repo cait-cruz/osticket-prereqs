@@ -78,7 +78,7 @@
     <li>From the <strong>osTicket-Installation-Files</strong> folder, install:</li>
     <ul>
         <li><strong>VC Redist</strong> (<code>VC_redist.x86.exe</code>)</li>
-        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with "Standard" configuration and <strong>Username:</strong> root, and <strong>Password:</strong> root.</li>
+        <li><strong>MySQL 5.5.62</strong> (<code>mysql-5.5.62-win32.msi</code>) with "Standard" configuration and <strong>Password:</strong> root.</li>
     </ul>
 </ul>
 
