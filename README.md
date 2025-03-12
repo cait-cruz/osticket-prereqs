@@ -58,7 +58,7 @@
     <ul>
         <li><strong>World Wide Web Services</strong> → <strong>Application Development Features</strong> → <strong>[X] CGI</strong></li>
 
-![421612319-931ca6f6-27cc-4044-80d0-e839b6ac023a](https://github.com/user-attachments/assets/6550950a-491e-4618-9fe7-f099bd14b063)   
+![image](https://github.com/user-attachments/assets/b926d937-2485-4c16-b00e-7663ec3b55f9)   
     </ul> 
     <li>Install required IIS modules from the <strong>osTicket-Installation-Files</strong> folder:</li>
     <ul>
