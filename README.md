@@ -113,21 +113,17 @@
 <ul>
     <li>Extract <code>osTicket-v1.15.8.zip</code> and move the <strong>upload</strong> folder to <code>C:\inetpub\wwwroot</code>.</li>
     <li>Rename <strong>upload</strong> to <strong>osTicket</strong>.</li>
-    <li>Reload IIS.</li>
-    <li>Navigate to <strong>Sites → Default → osTicket</strong> and click <strong>Browse *:80</strong>. Notice that some extensions are not enabled.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/a35333e7-d456-4a04-aa2c-e98293076fbc)
+![image](https://github.com/user-attachments/assets/0847e51e-ed3c-48fe-aa07-16982bee782f)
 
-![image](https://github.com/user-attachments/assets/fd785f6a-456c-4b70-8dc8-691349c6b95c)
+![image](https://github.com/user-attachments/assets/77bed335-8217-4ebf-8b46-9652f3883feb)
 
-![image](https://github.com/user-attachments/assets/e3f37272-7abb-4aec-9d26-f2013e209562)
+![image](https://github.com/user-attachments/assets/602a2b63-e8f0-4af1-8ea5-031ddf1744ab)
 
-![image](https://github.com/user-attachments/assets/edfaa3d2-32b7-4016-876a-833f262644be)
+![image](https://github.com/user-attachments/assets/6a23c269-b7bf-4205-a3d7-f29631b69b08)
 
-![image](https://github.com/user-attachments/assets/35f02e12-7446-4771-a4aa-218b3b950ddc)
-
-![image](https://github.com/user-attachments/assets/d826cfd3-4024-40fa-8cd9-01794d969fa8)
+![image](https://github.com/user-attachments/assets/a7ffd109-478b-478b-a2c8-1860e35b9f2d)
 
 <h4>7. Enable PHP Extensions</h4>
 <ul>
@@ -141,11 +137,9 @@
     <li>Refresh the osTicket site.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/76dc683b-a4f3-4550-b5c4-28ec986f1bad)
+![image](https://github.com/user-attachments/assets/c485b137-1f0c-4efd-9717-93302f25f005)
 
-![image](https://github.com/user-attachments/assets/d619da65-3184-4c68-8d26-5e054e530477)
-
-![image](https://github.com/user-attachments/assets/3f8b2d80-722c-4e19-92d6-e7e5e2003b19)
+![image](https://github.com/user-attachments/assets/92d60ee6-2c5d-403f-9cc6-180479b50bde)
 
 <h4>8. Configure osTicket</h4>
 <ul>
@@ -164,15 +158,24 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/d73c753a-6816-44fa-9198-f28ce5c25c02)
+![image](https://github.com/user-attachments/assets/5c17dd61-fbf7-4d5a-a0c5-811d3edc2f72)
 
-![image](https://github.com/user-attachments/assets/7a8bf157-c239-464b-b2ff-f726ce83c583)
+![image](https://github.com/user-attachments/assets/29aa799c-5103-4304-a748-764d51d38374)
 
-![image](https://github.com/user-attachments/assets/3369a7a5-858e-45d3-adbb-791296307900)
+![image](https://github.com/user-attachments/assets/73d0826e-c6a1-4d30-beda-45a68a956862)
 
-![image](https://github.com/user-attachments/assets/723f5ded-b04f-4cd0-8e7b-10c18bea1106)
+![image](https://github.com/user-attachments/assets/73c36c2d-d177-4d97-94ca-3062b7aa1430)
 
-![image](https://github.com/user-attachments/assets/0758b945-7657-4109-983f-09e83aca8dd6)
+![image](https://github.com/user-attachments/assets/efbd79c9-8dd5-4d54-8621-434f2349aff0)
+
+![image](https://github.com/user-attachments/assets/4aace57e-a90b-4674-b4c4-80831ab9fb32)
+
+![image](https://github.com/user-attachments/assets/48479b64-e82f-427d-ba99-036346cc2109)
+
+![image](https://github.com/user-attachments/assets/dc9fc21f-9c72-45e4-9512-9063350e6679)
+
+![image](https://github.com/user-attachments/assets/37ace554-15e8-4080-b5df-098922a9e012)
+
 
 <h4>9. Configure Database</h4>
 <ul>
