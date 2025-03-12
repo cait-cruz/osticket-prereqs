@@ -173,17 +173,15 @@
     <li>Create a database named <strong>osTicket</strong>.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/445dfe8b-e5eb-44fc-8087-8752386ba174)
+![image](https://github.com/user-attachments/assets/bc5e828a-86b6-4e3a-b2d2-cf855b8eb8f1)
 
-![image](https://github.com/user-attachments/assets/a0ba7fa2-ef13-4895-8377-8af94bc0899e)
+![image](https://github.com/user-attachments/assets/93bd3c61-def8-4236-a7c6-3309ea1d2d9b)
 
-![image](https://github.com/user-attachments/assets/2c1c2b1b-0f1c-48b4-b482-717f88a2278c)
+![image](https://github.com/user-attachments/assets/d26f97b9-4c68-4190-8716-c90641abb29e)
 
-![image](https://github.com/user-attachments/assets/04c4ec51-3b34-4ff9-92c6-f9c3b646fddf)
+![image](https://github.com/user-attachments/assets/a449ed44-9289-48c5-b863-09c72e5bd321)
 
-![image](https://github.com/user-attachments/assets/d2c8c472-87d0-47a0-abd0-515133fd7e13)
-
-![image](https://github.com/user-attachments/assets/994cc398-5df4-4edd-b09d-40f7778ce97a)
+![image](https://github.com/user-attachments/assets/ca7b26ae-7ebb-4248-b143-d1b3f1c11e7b)
 
 <h4>10. Final Steps</h4>
 <li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
@@ -192,6 +190,9 @@
         <li>Default email</li>
         <li>Admin User</li>
     </ul>
+
+![image](https://github.com/user-attachments/assets/bdec70f5-685a-41f0-b08e-444c89723093)
+
 <li>Finalize <strong>osTicket installation</strong> in the browser:</li>
     <ul>
         <li><strong>MySQL Database:</strong> <code>osTicket</code></li>
