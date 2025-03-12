@@ -67,9 +67,9 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/5c1acdc3-7a35-429a-9be2-889059acd75b)
+![image](https://github.com/user-attachments/assets/e39acf21-043c-4684-8044-4f3b28cdb543)
 
-![image](https://github.com/user-attachments/assets/88c870b7-8a47-4f34-bfeb-a7578e584f35)
+![image](https://github.com/user-attachments/assets/d732f709-f6d1-4813-b5c4-9c8b4668a628)
 
 <h4>4. Install PHP and MySQL</h4>
 <ul>
