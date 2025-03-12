@@ -82,15 +82,15 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/96a2ac09-3c26-4249-ac11-ad5f7cdd4c71)
+![image](https://github.com/user-attachments/assets/eb97123f-3138-4f36-97c3-ed5d96bac41f)
 
-![image](https://github.com/user-attachments/assets/359d9578-fdd8-4b24-8810-b4f24d7a9d99)
+![Annotation 2025-03-12 002147](https://github.com/user-attachments/assets/035b3d74-a263-467b-8218-ad5d6ccd6042)
 
-![image](https://github.com/user-attachments/assets/230f5ba2-aacd-4ae5-aba9-a5aeb8284683)
+![Annotation 2025-03-12 002346](https://github.com/user-attachments/assets/136c7147-0cea-4607-bec8-0d5da3dbcf31)
 
-![image](https://github.com/user-attachments/assets/8a6db7b7-d0f8-4855-b6a6-2524eb9d158f)
+![image](https://github.com/user-attachments/assets/ae630e8a-e04c-4464-b897-e59d4db4288f)
 
-![image](https://github.com/user-attachments/assets/dc0cadf5-3493-4dab-ba8e-07e7a2afa88d)
+![image](https://github.com/user-attachments/assets/f952c719-4ca1-4987-af28-b3d2be6098ab)
 
 <h4>5. Configure IIS</h4>
 <ul>
