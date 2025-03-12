@@ -99,15 +99,15 @@
     <li>Reload IIS (Stop & Start the server).</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/5c0066fe-3d25-4691-a15a-7aab2103c3f8)
+![image](https://github.com/user-attachments/assets/ea909478-a2de-4f3a-9691-f6db4a47da33)
 
-![image](https://github.com/user-attachments/assets/6a891b04-d489-4bae-9181-187bc8eaf8c8)
+![image](https://github.com/user-attachments/assets/83a022b5-1f33-4897-8330-7b64499816dc)
 
-![image](https://github.com/user-attachments/assets/5f4e83ff-ab58-46b4-9c38-b09c5327c4e7)
+![image](https://github.com/user-attachments/assets/719a3f55-6d80-47d1-b889-02d54e60a718)
 
-![image](https://github.com/user-attachments/assets/41cc3874-71b4-477a-b855-bf978c676cc4)
+![image](https://github.com/user-attachments/assets/b1967e41-7966-4403-bfd2-51f24bd62228)
 
-![image](https://github.com/user-attachments/assets/cf340fcd-7bb7-4c7f-bd81-265f04c52a16)
+![image](https://github.com/user-attachments/assets/ae8497ae-e1db-4850-9183-e498bca94f8e)
 
 <h4>6. Install osTicket</h4>
 <ul>
