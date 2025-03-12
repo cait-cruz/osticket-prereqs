@@ -149,7 +149,7 @@
         <li><strong>New Permissions</strong> → <strong>Everyone → All</strong>.</li>
         <li>Enable <strong>Full Control.</strong></li>
     </ul>
-    <li>Continue <strong>osTicket setup</strong> in the browser:</li>
+    <li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
     <ul>
         <li>Helpdesk Name</li>
         <li>Default email</li>
