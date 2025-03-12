@@ -136,9 +136,9 @@
     <li>Refresh the osTicket site.</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/c485b137-1f0c-4efd-9717-93302f25f005)
+![image](https://github.com/user-attachments/assets/33aba18d-4a2e-4d3e-a55f-a2162a2a9479)
 
-![image](https://github.com/user-attachments/assets/92d60ee6-2c5d-403f-9cc6-180479b50bde)
+![image](https://github.com/user-attachments/assets/761c8ff3-2304-46ac-a819-0776f333437e)
 
 <h4>8. Configure osTicket</h4>
 <ul>
@@ -157,13 +157,11 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/5c17dd61-fbf7-4d5a-a0c5-811d3edc2f72)
-
-![image](https://github.com/user-attachments/assets/29aa799c-5103-4304-a748-764d51d38374)
+![image](https://github.com/user-attachments/assets/f7717dc8-7f29-4aaa-b019-9885be0c5a58)
 
 ![image](https://github.com/user-attachments/assets/73d0826e-c6a1-4d30-beda-45a68a956862)
 
-![image](https://github.com/user-attachments/assets/73c36c2d-d177-4d97-94ca-3062b7aa1430)
+![image](https://github.com/user-attachments/assets/ec61adb5-6c62-42ba-962e-ce93b839d13c)
 
 ![image](https://github.com/user-attachments/assets/efbd79c9-8dd5-4d54-8621-434f2349aff0)
 
