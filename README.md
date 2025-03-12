@@ -50,7 +50,7 @@
 
 ![image](https://github.com/user-attachments/assets/a80a6a89-80b5-4309-80b9-3a15c9154224)
 
-![image](https://github.com/user-attachments/assets/8b04ee27-0ce6-4720-83c3-ae32b5bd5074)
+![image](https://github.com/user-attachments/assets/8689fda8-0c0c-4d18-81be-9f86be28490a)
 
 <h4>3. Install IIS and Required Modules</h4>
 <ul>
@@ -67,7 +67,7 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/e39acf21-043c-4684-8044-4f3b28cdb543)
+![image](https://github.com/user-attachments/assets/78ff2b0a-1188-42a7-a13e-8caeab9fde96)
 
 ![image](https://github.com/user-attachments/assets/d732f709-f6d1-4813-b5c4-9c8b4668a628)
 
@@ -82,7 +82,7 @@
     </ul>
 </ul>
 
-![image](https://github.com/user-attachments/assets/eb97123f-3138-4f36-97c3-ed5d96bac41f)
+![image](https://github.com/user-attachments/assets/b27f7dce-2c9f-4e65-8a27-270d8001b96f)
 
 ![Annotation 2025-03-12 002147](https://github.com/user-attachments/assets/035b3d74-a263-467b-8218-ad5d6ccd6042)
 
@@ -101,13 +101,12 @@
 
 ![image](https://github.com/user-attachments/assets/ea909478-a2de-4f3a-9691-f6db4a47da33)
 
-![image](https://github.com/user-attachments/assets/83a022b5-1f33-4897-8330-7b64499816dc)
+![image](https://github.com/user-attachments/assets/1db5fa2e-705b-4fbd-9875-8245496c4174)
 
-![image](https://github.com/user-attachments/assets/719a3f55-6d80-47d1-b889-02d54e60a718)
+![image](https://github.com/user-attachments/assets/4c96f4ef-7468-4c50-ad40-3a805e54b56c)
 
-![image](https://github.com/user-attachments/assets/b1967e41-7966-4403-bfd2-51f24bd62228)
+![image](https://github.com/user-attachments/assets/6d12df4f-27c1-43a7-b7c5-3dc9263a1018)
 
-![image](https://github.com/user-attachments/assets/ae8497ae-e1db-4850-9183-e498bca94f8e)
 
 <h4>6. Install osTicket</h4>
 <ul>
