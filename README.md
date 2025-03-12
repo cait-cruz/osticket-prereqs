@@ -186,11 +186,6 @@
 ![image](https://github.com/user-attachments/assets/994cc398-5df4-4edd-b09d-40f7778ce97a)
 
 <h4>10. Final Steps</h4>
-<ul>
-    <li>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></li>
-    <li>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></li>
-</ul>
-<br />
 <li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
     <ul>
         <li>Helpdesk Name</li>
@@ -204,7 +199,10 @@
         <li><strong>MySQL Password:</strong> <code>root</code></li>
         <li>Click <strong>Install Now!</strong></li>
     </ul>
-</ul>
+<br />    
+<p>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></p>
+<p>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></p>
+
 <hr>
 
 <h3>🎉 Congratulations! osTicket is now installed and ready to use. 🎉</h3>
