@@ -200,6 +200,9 @@
         <li><strong>MySQL Password:</strong> <code>root</code></li>
         <li>Click <strong>Install Now!</strong></li>
     </ul>
+
+![image](https://github.com/user-attachments/assets/ddfda481-a6f4-4380-8d27-7b28f02f41e5)
+
 <br />    
 <p>Access the <strong>Admin Panel</strong>: <a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a></p>
 <p>User Portal: <a href="http://localhost/osTicket/">http://localhost/osTicket/</a></p>
