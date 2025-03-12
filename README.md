@@ -163,16 +163,15 @@
 
 ![image](https://github.com/user-attachments/assets/ec61adb5-6c62-42ba-962e-ce93b839d13c)
 
-![image](https://github.com/user-attachments/assets/efbd79c9-8dd5-4d54-8621-434f2349aff0)
+![image](https://github.com/user-attachments/assets/b85cb4aa-d038-42bd-ab84-ab2a1913556f)
 
-![image](https://github.com/user-attachments/assets/4aace57e-a90b-4674-b4c4-80831ab9fb32)
+![image](https://github.com/user-attachments/assets/0e7da184-d9d9-453f-b9fd-a34b4df81b64)
 
-![image](https://github.com/user-attachments/assets/48479b64-e82f-427d-ba99-036346cc2109)
+![image](https://github.com/user-attachments/assets/250628c3-4df4-416f-8c23-412f970adb7b)
 
-![image](https://github.com/user-attachments/assets/dc9fc21f-9c72-45e4-9512-9063350e6679)
+![image](https://github.com/user-attachments/assets/2f240fd8-038b-469e-a996-36556fa30fd0)
 
-![image](https://github.com/user-attachments/assets/37ace554-15e8-4080-b5df-098922a9e012)
-
+![image](https://github.com/user-attachments/assets/3e862079-87e1-4d9c-906e-68aa64c89e91)
 
 <h4>9. Configure Database</h4>
 <ul>
