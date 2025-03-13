@@ -57,7 +57,8 @@
     <li>Enable <strong>IIS (Internet Information Services)</strong> with <strong>CGI</strong>:</li>
     <ul>
         <li><strong>World Wide Web Services</strong> → <strong>Application Development Features</strong> → <strong>[X] CGI</strong></li>
-
+<br />
+        
 ![image](https://github.com/user-attachments/assets/b926d937-2485-4c16-b00e-7663ec3b55f9)   
     </ul> 
     <li>Install required IIS modules from the <strong>osTicket-Installation-Files</strong> folder:</li>
@@ -149,7 +150,8 @@
         <li><strong>New Permissions</strong> → <strong>Everyone → All</strong>.</li>
         <li>Enable <strong>Full Control.</strong></li>
     </ul>
-
+<br />
+    
 ![image](https://github.com/user-attachments/assets/f7717dc8-7f29-4aaa-b019-9885be0c5a58)
 
 ![image](https://github.com/user-attachments/assets/0a4a4755-b1f8-430d-9fcc-29c35695ba9e)
@@ -172,6 +174,7 @@
     <li>Open <strong>HeidiSQL</strong> → Create a new session (<code>root/root</code>).</li>
     <li>Create a database named <strong>osTicket</strong>.</li>
 </ul>
+<br />
 
 ![image](https://github.com/user-attachments/assets/bc5e828a-86b6-4e3a-b2d2-cf855b8eb8f1)
 
@@ -181,7 +184,7 @@
 
 ![image](https://github.com/user-attachments/assets/a449ed44-9289-48c5-b863-09c72e5bd321)
 
-![image](https://github.com/user-attachments/assets/ca7b26ae-7ebb-4248-b143-d1b3f1c11e7b)
+![image](https://github.com/user-attachments/assets/ebe5051e-9b92-4acd-b70a-1f3ccf9bc3cf)
 
 <h4>10. Final Steps</h4>
 <li>Continue <strong><a href="http://localhost/osTicket/scp/login.php">osTicket setup</a></strong> in the browser:</li>
