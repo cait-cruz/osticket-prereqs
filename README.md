@@ -194,6 +194,8 @@
         <li>Admin User</li>
     </ul>
 
+<br />
+
 ![image](https://github.com/user-attachments/assets/bdec70f5-685a-41f0-b08e-444c89723093)
 
 <li>Finalize <strong>osTicket installation</strong> in the browser:</li>
@@ -203,6 +205,9 @@
         <li><strong>MySQL Password:</strong> <code>root</code></li>
         <li>Click <strong>Install Now!</strong></li>
     </ul>
+
+
+<br />
 
 ![image](https://github.com/user-attachments/assets/ddfda481-a6f4-4380-8d27-7b28f02f41e5)
 
