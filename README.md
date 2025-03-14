@@ -45,7 +45,7 @@
 
 <h4>2. Prepare the VM</h4>
 <ul>
-    <li>Download and extract <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
+    <li>Within the VM, download and extract <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD" target="_blank">osTicket Installation Files</a>. The extracted folder should be named <strong>osTicket-Installation-Files</strong>.</li>
 </ul>
 
 ![image](https://github.com/user-attachments/assets/a80a6a89-80b5-4309-80b9-3a15c9154224)
