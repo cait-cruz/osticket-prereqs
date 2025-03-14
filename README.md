@@ -100,7 +100,7 @@
     <li>Reload IIS (Stop & Start the server).</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/ea909478-a2de-4f3a-9691-f6db4a47da33)
+![image](https://github.com/user-attachments/assets/f03bcb4b-92cb-4c7b-b60d-2c41b6908b68)
 
 ![image](https://github.com/user-attachments/assets/1db5fa2e-705b-4fbd-9875-8245496c4174)
 
